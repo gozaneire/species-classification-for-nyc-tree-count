@@ -53,5 +53,25 @@
     "order": "Proteales",
     "family": "Platanaceae",
     "genus": "Platanus"
-}
-]
+},
+{
+    "name": "Liquidambar styraciflua",
+    "common_name": "American Sweetgum",
+    "order": "Saxifragales",
+    "family": "Altingiaceae",
+    "genus": "Liquidambar"
+},
+{
+    "name": "Carpinus caroliniana",
+    "common_name": "American Hornbeam",
+    "order": "Fagales",
+    "family": "Betulaceae",
+    "genus": "Carpinus"
+},
+{
+    "name": "Gleditsia triacanthos var. inermis",
+    "common_name": "Thornless Honeylocust",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Gleditsia"
+}]
