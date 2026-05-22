@@ -1,0 +1,57 @@
+[{
+    "name": "Quercus palustris",
+    "common_name": "Pin Oak",
+    "order": "Fagales",
+    "family": "Fagaceae",
+    "genus": "Quercus"
+},
+{
+    "name": "Pyrus calleryana",
+    "common_name": "Callery Pear",
+    "order": "Rosales",
+    "family": "Rosaceae",
+    "genus": "Pyrus"
+},
+{
+    "name": "Acer tataricum subsp. ginnala",
+    "common_name": "Amur Maple",
+    "order": "Sapindales",
+    "family": "Sapindaceae",
+    "genus": "Acer"
+},
+{
+    "name": "Acer saccharinum",
+    "common_name": "Silver Maple",
+    "order": "Sapindales",
+    "family": "Sapindaceae",
+    "genus": "Acer"
+},
+{
+    "name": "Acer rubrum",
+    "common_name": "Red Maple",
+    "order": "Sapindales",
+    "family": "Sapindaceae",
+    "genus": "Acer"
+},
+{
+    "name": "Ulmus americana",
+    "common_name": "American Elm",
+    "order": "Rosales",
+    "family": "Ulmaceae",
+    "genus": "Ulmus"
+},
+{
+    "name": "Fraxinus pennsylvanica",
+    "common_name": "Green Ash",
+    "order": "Lamiales",
+    "family": "Oleaceae",
+    "genus": "Fraxinus"
+},
+{
+    "name": "Platanus occidentalis",
+    "common_name": "American Sycamore",
+    "order": "Proteales",
+    "family": "Platanaceae",
+    "genus": "Platanus"
+}
+]
