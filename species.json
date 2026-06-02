@@ -74,4 +74,32 @@
     "order": "Fabales",
     "family": "Fabaceae",
     "genus": "Gleditsia"
+},
+{
+    "name": "Platanus x hispanica",
+    "common_name": "London Planetree",
+    "order": "Proteales",
+    "family": "Platanaceae",
+    "genus": "Platanus"
+},
+{
+    "name": "Fagus grandifolia",
+    "common_name": "American beech",
+    "order": "Fagales",
+    "family": "Fagaceae",
+    "genus": "Fagus"
+},
+{
+    "name": "Ginkgo biloba",
+    "common_name": "Ginkgo",
+    "order": "Ginkgoales",
+    "family": "Ginkgoaceae",
+    "genus": "Ginkgo"
+},
+{
+    "name": "Celtis occidentalis",
+    "common_name": "Common Hackberry",
+    "order": "Rosales",
+    "family": "Cannabaeceae",
+    "genus": "Celtis"
 }]
